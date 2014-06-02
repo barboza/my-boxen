@@ -83,7 +83,7 @@ github "pckeyboardhack",    "1.0.2", :repo => "josemarluedke/puppet-pckeyboardha
 github "transmit",          "1.0.0"
 github "skype",             "1.0.7"
 github "chrome",            "1.1.2"
-github "onepassword",       "1.1.0"
 github "firefox",           "1.1.5"
 github "rdio",              "1.0.0"
 github "java",              "1.1.2"
+github "spotify"            "1.0.1"
