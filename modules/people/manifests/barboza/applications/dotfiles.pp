@@ -1,4 +1,4 @@
-class people::josemarluedke::applications::dotfiles {
+class people::barboza::applications::dotfiles {
   $home = "/Users/${::luser}"
 
   $dotfiles_dir = "${$home}/.dotfiles"

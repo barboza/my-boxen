@@ -1,4 +1,4 @@
-class people::josemarluedke {
+class people::barboza {
   # Pugins
   heroku::plugin { 'accounts':
     source => 'ddollar/heroku-accounts'
@@ -9,9 +9,9 @@ class people::josemarluedke {
   class { 'phantomjs::global': version => '1.9.0' }
 
   # Packages
-  include people::josemarluedke::packages::the_silver_searcher
+  include people::barboza::packages::the_silver_searcher
 
   # Aplications
-  include people::josemarluedke::applications::dotfiles
-  include people::josemarluedke::applications::vim
+  include people::barboza::applications::dotfiles
+  include people::barboza::applications::vim
 }
