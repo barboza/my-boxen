@@ -101,9 +101,7 @@ node default {
   include transmit
   include skype
   include chrome
-  include onepassword
   include firefox
-  include rdio
   include java
 
   # common, useful packages
