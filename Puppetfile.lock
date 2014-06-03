@@ -129,11 +129,6 @@ GITHUBTARBALL
     nodejs (3.5.0)
 
 GITHUBTARBALL
-  remote: boxen/puppet-onepassword
-  specs:
-    onepassword (1.1.0)
-
-GITHUBTARBALL
   remote: boxen/puppet-openssl
   specs:
     openssl (1.0.0)
@@ -277,7 +272,6 @@ DEPENDENCIES
   mou (= 1.0.0)
   nginx (= 1.4.2)
   nodejs (= 3.5.0)
-  onepassword (= 1.1.0)
   openssl (= 1.0.0)
   pckeyboardhack (= 1.0.2)
   phantomjs (= 2.1.0)

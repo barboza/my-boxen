@@ -23,3 +23,4 @@
 
 # required for Github Enterprise (defaults to "https://github.com/%s")
 # ENV['BOXEN_REPO_URL_TEMPLATE'] = 'https://github.yourdomain.com/%s'
+[ -f /opt/boxen/env.sh ] && source /opt/boxen/env.sh
